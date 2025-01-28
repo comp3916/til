@@ -178,4 +178,3 @@ Create a playbook (`aks_playbook.yml`) to:
 ### **Conclusion**
 Ansible and Terraform are complementary tools that serve different purposes in the automation landscape. Ansible excels at configuration management and application deployment, while Terraform is ideal for infrastructure provisioning. By using both tools together, you can achieve end-to-end automation for your cloud and Kubernetes environments.
 
-Let me know if you’d like further clarification or additional examples!
