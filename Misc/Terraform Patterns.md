@@ -15,4 +15,7 @@ Setting up the remote information for TF Cloud
 
 ![image](https://github.com/user-attachments/assets/4c8af4b3-b927-452e-a334-fde9ae57bd87)
 
+For each use case for subnet definitions
+![image](https://github.com/user-attachments/assets/6c00fa42-ab87-4ebe-aeb9-fca4ee452965)
 
+![image](https://github.com/user-attachments/assets/433a9b6f-5c98-4257-8929-45e88560e6bc)
